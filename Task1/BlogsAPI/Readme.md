@@ -1,4 +1,3 @@
-Sure! Here's a detailed, clean, and visually appealing README.md template for your Express blog API project. You can customize the placeholders as needed:
 
 ````markdown
 # 📝 Blog API
